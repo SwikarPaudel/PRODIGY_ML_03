@@ -28,4 +28,3 @@ The goal of this project is to apply a classical machine learning approach to an
 - The trained SVM model successfully classifies images into **Cat** or **Dog**
 - Model performance is evaluated using accuracy and prediction analysis
 
-## 📁 File Structure
